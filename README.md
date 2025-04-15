@@ -2,7 +2,7 @@
 <h3 align="center">A student from MNNIT Allahabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akabhi2311&label=Profile%20views&color=0e75b6&style=flat" alt="Akabhi2311" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akabhi2311" alt="Abhishek" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Akabhi2311" alt="Abhishek Kumar" /></a> </p>
 
 - 🔭 I’m currently working on [AI-Attendance-System](https://github.com/Akabhi2311/AI-Attendance-System)
 
